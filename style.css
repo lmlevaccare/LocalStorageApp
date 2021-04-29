@@ -1,0 +1,16 @@
+input , button{
+    padding: 7px;
+    height: 40px;
+}
+.isOutput{
+    padding: 10px;
+    padding-bottom: 5px;
+    height: 40px;
+}
+#btnV{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#container{
+    background-color: rgb(240, 245, 245);
+}
